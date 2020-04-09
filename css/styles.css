@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #022169;
   text-align: left;
   background-color: #f0f0f0;
 }
@@ -6067,7 +6067,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #0221699f !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9756,7 +9756,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #2c3e50 !important;
+  color: #6cace4 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -10232,4 +10232,9 @@ form .row:first-child .floating-label-form-group {
 
 .titleSection{
 padding-bottom: 20px;
+color: #022169;
+}
+
+.text-content{
+  color: #022169;
 }
