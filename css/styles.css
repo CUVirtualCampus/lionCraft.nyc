@@ -106,6 +106,50 @@ address {
   line-height: inherit;
 }
 
+.gray{
+  color: gray
+}
+
+.red{
+  color: red
+}
+
+.green{
+  color: green
+}
+
+.yellow{
+  color: yellow
+}
+.black{
+  color: black
+}
+.pink{
+  color:#e75480
+}
+
+.maroon{
+ color: #800000
+}
+
+.orange{
+  color: orange
+}
+
+.blue{
+  color: lightskyblue
+}
+
+
+.purple{
+  color: purple
+}
+
+
+.bold{
+  font-weight: bold;
+}
+
 ol,
 ul,
 dl {
