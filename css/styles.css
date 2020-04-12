@@ -650,9 +650,7 @@ pre code {
   }
 }
 
-/* #googleForm{
-  width: 540px;
-} */
+
 
 .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
   width: 100%;
@@ -10332,4 +10330,8 @@ color: #022169;
   color:#29d462;
   font-size: 1.2rem;
 
+}
+
+iframe{
+  margin: 0 !important;
 }
