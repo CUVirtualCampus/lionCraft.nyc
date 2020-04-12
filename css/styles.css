@@ -608,11 +608,13 @@ pre code {
   .container {
     max-width: 540px;
   }
+  
 }
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
   }
+  
 }
 @media (min-width: 992px) {
   .container {
@@ -623,7 +625,34 @@ pre code {
   .container {
     max-width: 1140px;
   }
+
 }
+
+/* @media (max-width: 400px){
+  #googleForm{
+    width: 360px;
+  }
+} */
+
+@media (max-width: 2000px){
+  #googleForm, #video{
+    width: 560px;
+  }
+}
+
+@media (max-width: 700px){
+  #googleForm{
+    width: 360px;
+  }
+
+  #video{
+    width: 350px;
+  }
+}
+
+/* #googleForm{
+  width: 540px;
+} */
 
 .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
   width: 100%;
